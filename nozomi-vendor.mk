@@ -2,7 +2,7 @@
 # XXX: Copyright
 #
 
-# chargemon stuff 
+# chargemon stuff
 PRODUCT_COPY_FILES += \
 vendor/sony/nozomi/prop-sony/semc/chargemon/data/charging_animation_01.png:system/semc/chargemon/data/charging_animation_01.png \
 vendor/sony/nozomi/prop-sony/semc/chargemon/data/charging_animation_02.png:system/semc/chargemon/data/charging_animation_02.png \
@@ -39,7 +39,7 @@ vendor/sony/nozomi/prop-mako/libOpenCL.so:system/lib/libOpenCL.so \
 vendor/sony/nozomi/prop-mako/libOpenVG.so:system/lib/libOpenVG.so \
 vendor/sony/nozomi/prop-mako/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
 vendor/sony/nozomi/prop-mako/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-vendor/sony/nozomi/prop-mako/libsc-a2xx.so:system/lib/libsc-a2xx.so 
+vendor/sony/nozomi/prop-mako/libsc-a2xx.so:system/lib/libsc-a2xx.so
 
 # Sony proprietaries
 PRODUCT_COPY_FILES += \
@@ -205,6 +205,14 @@ vendor/sony/nozomi/prop-sony/lib/libta.so:system/lib/libta.so \
 vendor/sony/nozomi/prop-sony/lib/libta_rmt_clnt.so:system/lib/libta_rmt_clnt.so \
 vendor/sony/nozomi/prop-sony/lib/libthermal_mitigation.so:system/lib/libthermal_mitigation.so \
 vendor/sony/nozomi/prop-sony/lib/libthermal_mitigation_fusion.so:system/lib/libthermal_mitigation_fusion.so \
+vendor/sony/nozomi/prop-sony/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
+vendor/sony/nozomi/prop-sony/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
+vendor/sony/nozomi/prop-sony/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
+vendor/sony/nozomi/prop-sony/lib/libOmxEvrcDec.so:system/lib/libOmxEvrcDec.so \
+vendor/sony/nozomi/prop-sony/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
+vendor/sony/nozomi/prop-sony/lib/libOmxQcelp13Dec.so:system/lib/libOmxQcelp13Dec.so \
+vendor/sony/nozomi/prop-sony/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
+vendor/sony/nozomi/prop-sony/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
 vendor/sony/nozomi/prop-sony/lib/hw/camera.msm8660.so:system/lib/hw/camera.msm8660.so \
 vendor/sony/nozomi/prop-sony/lib/hw/gps.msm8660.so:system/lib/hw/gps.msm8660.so \
 vendor/sony/nozomi/prop-sony/lib/hw/nfc.msm8660.so:system/lib/hw/nfc.msm8660.so \
