@@ -218,3 +218,8 @@ vendor/sony/nozomi/prop-sony/lib/hw/gps.msm8660.so:system/lib/hw/gps.msm8660.so 
 vendor/sony/nozomi/prop-sony/lib/hw/nfc.msm8660.so:system/lib/hw/nfc.msm8660.so \
 vendor/sony/nozomi/prop-sony/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so
 
+# Add Sony hostapd and wpa_supplicant (eap-sim)
+PRODUCT_COPY_FILES += \
+vendor/sony/nozomi/prop-sony/bin/hostapd:system/bin/hostapd \
+vendor/sony/nozomi/prop-sony/bin/wpa_supplicant:system/bin/wpa_supplicant \
+vendor/sony/nozomi/prop-sony/bin/hostapd_cli:system/bin/hostapd_cli
