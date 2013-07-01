@@ -152,7 +152,6 @@ vendor/sony/nozomi/prop-sony/lib/libcameralight.so:system/lib/libcameralight.so 
 vendor/sony/nozomi/prop-sony/lib/libcameraservice.so:system/lib/libcameraservice.so \
 vendor/sony/nozomi/prop-sony/lib/libdiag.so:system/lib/libdiag.so \
 vendor/sony/nozomi/prop-sony/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
-vendor/sony/nozomi/prop-sony/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
 vendor/sony/nozomi/prop-sony/lib/libdsm.so:system/lib/libdsm.so \
 vendor/sony/nozomi/prop-sony/lib/libdsutils.so:system/lib/libdsutils.so \
 vendor/sony/nozomi/prop-sony/lib/libface.so:system/lib/libface.so \
@@ -187,11 +186,9 @@ vendor/sony/nozomi/prop-sony/lib/liboncrpc.so:system/lib/liboncrpc.so \
 vendor/sony/nozomi/prop-sony/lib/libprotobuf-c.so:system/lib/libprotobuf-c.so \
 vendor/sony/nozomi/prop-sony/lib/libqc-opt.so:system/lib/libqc-opt.so \
 vendor/sony/nozomi/prop-sony/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
-vendor/sony/nozomi/prop-sony/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
 vendor/sony/nozomi/prop-sony/lib/libqdi.so:system/lib/libqdi.so \
 vendor/sony/nozomi/prop-sony/lib/libqdp.so:system/lib/libqdp.so \
 vendor/sony/nozomi/prop-sony/lib/libqmi.so:system/lib/libqmi.so \
-vendor/sony/nozomi/prop-sony/lib/libqmi_client_qmux.so:system/lib/libqmi_client_qmux.so \
 vendor/sony/nozomi/prop-sony/lib/libqmi_client_qmux.so:system/lib/libqmi_client_qmux.so \
 vendor/sony/nozomi/prop-sony/lib/libqmiservices.so:system/lib/libqmiservices.so \
 vendor/sony/nozomi/prop-sony/lib/libqueue.so:system/lib/libqueue.so \
